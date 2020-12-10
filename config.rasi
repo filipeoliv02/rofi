@@ -1,0 +1,10 @@
+configuration {
+  show-icons: true;
+  modi: "window,run,ssh,drun";
+  width: 20;
+	lines: 9;
+	columns: 1;
+  font: "TeX Gyre Heros 13";
+}
+
+@import "~/.config/rofi/mytheme.rasi"
